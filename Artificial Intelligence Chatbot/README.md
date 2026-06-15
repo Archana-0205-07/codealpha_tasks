@@ -1,5 +1,6 @@
 # Artificial Intelligence Chatbot
 
+<<<<<<< HEAD
 ## CodeAlpha Internship - Task 2
 
 ### Description
@@ -53,3 +54,6 @@ java ChatBotGUI
 ### Author
 
 Archana Yennepally
+=======
+CodeAlpha Internship Task 2
+>>>>>>> b6c50ff6d3cc34e8d8109552cf1800e3654a7bc6
